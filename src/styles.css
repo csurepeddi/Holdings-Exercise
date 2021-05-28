@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button {
+  display: inline;
+  background-color: gray;
+  border: 2px solid black;
+  margin-right: 5px;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.button.selected {
+  background-color: blue;
+}
